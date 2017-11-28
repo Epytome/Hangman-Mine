@@ -1,0 +1,147 @@
+ /$$   /$$                                                                
+| $$  | $$                                                                
+| $$  | $$  /$$$$$$  /$$$$$$$   /$$$$$$  /$$$$$$/$$$$   /$$$$$$  /$$$$$$$ 
+| $$$$$$$$ |____  $$| $$__  $$ /$$__  $$| $$_  $$_  $$ |____  $$| $$__  $$
+| $$__  $$  /$$$$$$$| $$  \ $$| $$  \ $$| $$ \ $$ \ $$  /$$$$$$$| $$  \ $$
+| $$__  $$  /$$$$$$$| $$  \ $$| $$  \ $$| $$ | $$ | $$ /$$$$$$$ | $$   \$$
+|__/  |__/ \_______/|__/  |__/ \____  $$|__/ |__/ |__/ \_______/|__/   |__/
+                               /$$  \ $$                                  
+                              |  $$$$$$/                        
+                               \______/                         
+
+You have 7 strikes and then you're out
+
+What is your name?ERic
+
+---
+
+You have 0 strikes
+
+Guess a letter ERic: q
+
+You have guessed .
+
+---
+
+You have 1 strikes
+
+Guess a letter ERic: w
+
+You have guessed q.
+
+---
+
+You have 2 strikes
+
+Guess a letter ERic: e
+
+You have guessed qw.
+
+---
+
+You have 3 strikes
+
+Guess a letter ERic: r
+
+You have guessed qwe.
+
+---
+
+You have 4 strikes
+
+Guess a letter ERic: t
+
+You have guessed qwer.
+
+---
+
+You have 5 strikes
+
+Guess a letter ERic: y
+
+You have guessed qwert.
+
+---
+
+You have 6 strikes
+
+Guess a letter ERic: u
+
+You have guessed qwerty.
+
+---
+
+Game Over, you are out of guesses
+
+Would you like to play again? (y/n) y
+
+What is your name?Eric
+
+-------
+
+You have 0 strikes
+
+Guess a letter Eric: q
+
+You have guessed .
+
+-------
+
+You have 1 strikes
+
+Guess a letter Eric: w
+
+You have guessed q.
+
+-------
+
+You have 2 strikes
+
+Guess a letter Eric: e
+
+You have guessed qw.
+
+-------
+
+You have 3 strikes
+
+Guess a letter Eric: r
+
+You have guessed qwe.
+
+-------
+
+You have 4 strikes
+
+Guess a letter Eric: d
+
+You have guessed qwer.
+
+-------
+
+You have 5 strikes
+
+Guess a letter Eric: o
+
+You have guessed qwerd.
+
+-------
+
+You have 6 strikes
+
+Guess a letter Eric: a
+
+You have guessed qwerdo.
+
+-------
+
+Game Over, you are out of guesses
+
+Would you like to play again? (y/n) n
+  ___    __    __  __  ____    _____  _  _  ____  ____ 
+ / __)  /__\  (  \/  )( ___)  (  _  )( \/ )( ___)(  _ \ 
+( (_-. /(__)\  )    (  )__)    )(_)(  \  /  )__)  )   /
+ \___/(__)(__)(_/\/\_)(____)  (_____)  \/  (____)(_)\_)
+
+
+This game was created by yours truly Scott on Nov.27/2017.
